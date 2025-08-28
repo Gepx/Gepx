@@ -10,39 +10,41 @@
 ---
 
 ### 👨‍💻 About Me  
-🔭 I’m currently working on fullstack projects to practice building, deploying, and maintaining real-world applications.  
-🤝 I’m looking to collaborate on open-source MERN stack or beginner-friendly fullstack projects.  
-👐 I’m looking for help with backend best practices, scaling, and deployment pipelines.  
-🌱 I’m currently learning the MERN stack (MongoDB, Express, React, Node.js) and DevOps basics.  
-💬 Ask me about web development fundamentals, JavaScript, or my journey learning fullstack.  
-⚡ Fun fact: *“The expert in anything was once a beginner.”*  
+I’m a Full Stack Web Developer passionate about building scalable and user-friendly applications. 🚀
+Currently focusing on the MERN stack (MongoDB, Express, React, Node.js) and exploring DevOps basics to learn how to take projects from start to deployment and maintenance.
+
+I enjoy problem-solving, designing clean architectures, and creating intuitive UIs with Tailwind CSS and Shadcn. When I’m not coding, you’ll find me exploring new tools, learning modern tech, or watching developer content to stay inspired.
+
+Feel free to connect with me @Gepx for all things tech or just to say hello! Let's build something impactful together. 🌟 🌟
 
 ---
 
-### 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+### 🔧 Tech Stack  
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgres"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Next.js"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gepx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gepx&theme=dark&hide_border=false" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gepx&theme=dark&hide_border=false&layout=compact&langs_count=8" height="150"/>
-</p>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gepx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gepx&theme=dark&hide_border=false" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gepx&theme=dark&hide_border=false&layout=compact&langs_count=8" height="150"/>
+  </p>
+
 
 ---
 
@@ -56,7 +58,10 @@
 ### 🚀 A Little More About Me
 - 💻 Exploring how to take projects from scratch → deploy → maintain.  
 - 📚 Always learning and experimenting with new tools in web development.  
-- 🍕 Outside of coding, I enjoy solving puzzles and exploring new ideas.  
+- 🔭 I’m currently working with JS, React, Node.js, etc.
+- 🌱 I’m currently learning in deep about the MERN stack (MongoDB, Express, React, Node.js) and DevOps.  
+- 💬 Ask me anything [here](https://github.com/Gepx/Gepx/issues)! I am happy to help.
+
 
 ---
 

@@ -37,21 +37,10 @@ Feel free to connect with me [@Gepx](https://github.com/Gepx) for all things tec
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
 
 ---
-
-### 📊 GitHub Stats
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gepx&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gepx&theme=dark&hide_border=false" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gepx&theme=dark&hide_border=false&layout=compact&langs_count=8" height="150"/>
-  </p>
-
-
----
-
-### ✨ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Gepx&theme=vue&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gepx&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Gepx&theme=vue&hide_border=false)<br/>
 
 ---
 
@@ -62,6 +51,13 @@ Feel free to connect with me [@Gepx](https://github.com/Gepx) for all things tec
 - 🌱 I’m currently learning in deep about the MERN stack (MongoDB, Express, React, Node.js) and DevOps.  
 - 💬 Ask me anything [here](https://github.com/Gepx/Gepx/issues)! I am happy to help.
 
+
+---
+
+### ✨ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 ---
 

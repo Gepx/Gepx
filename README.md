@@ -15,7 +15,7 @@ Currently focusing on the MERN stack (MongoDB, Express, React, Node.js) and expl
 
 I enjoy problem-solving, designing clean architectures, and creating intuitive UIs with Tailwind CSS and Shadcn. When I’m not coding, you’ll find me exploring new tools, learning modern tech, or watching developer content to stay inspired.
 
-Feel free to connect with me @Gepx for all things tech or just to say hello! Let's build something impactful together. 🌟 🌟
+Feel free to connect with me [@Gepx](https://github.com/Gepx) for all things tech or just to say hello! Let's build something impactful together.  🌟
 
 ---
 
